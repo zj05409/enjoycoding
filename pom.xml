@@ -47,6 +47,9 @@
 
     <modules>
         <!--<module>emp-persistence</module>-->
+        <module>core</module>
+        <module>site</module>
+        <module>webapp</module>
     </modules>
 
     <repositories>
